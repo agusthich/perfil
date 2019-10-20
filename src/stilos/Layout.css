@@ -1,0 +1,6 @@
+.Container-Padre-layout {
+  display: flex;
+  width: 100%;
+  height: 1000px;
+  background-color: royalblue;
+  margin: 40px 40px 40px 40px; }
