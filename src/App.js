@@ -11,7 +11,7 @@ function App() {
 //uso el componente
   return (    
         <div className="Container-Padre-App">
-
+   <p>hola</p>
              <Layout/>
              
   
